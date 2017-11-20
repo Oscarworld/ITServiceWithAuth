@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (3.4.0)
+  - ARSLineProgress (1.1.1)
+  - GoogleMaps (1.13.2)
+  - LiquidFloatingActionButton (0.1.1)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4.0)
+  - ARSLineProgress (~> 1.0)
+  - GoogleMaps (~> 1.13.2)
+  - LiquidFloatingActionButton (from `https://github.com/yoavlt/LiquidFloatingActionButton.git`, branch `swift-2.0`)
+  - SwiftyJSON (~> 2.3.2)
+
+EXTERNAL SOURCES:
+  LiquidFloatingActionButton:
+    :branch: swift-2.0
+    :git: https://github.com/yoavlt/LiquidFloatingActionButton.git
+
+CHECKOUT OPTIONS:
+  LiquidFloatingActionButton:
+    :commit: 25de77f23df84e0a0981193abecced8afc2ed9c7
+    :git: https://github.com/yoavlt/LiquidFloatingActionButton.git
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  ARSLineProgress: e54c736d1cf043229c2038d35572f9977f240ebd
+  GoogleMaps: b20a103ff307f58392e603cf142e59d7e30374c1
+  LiquidFloatingActionButton: dcdae1e59eb07eccbf60c027001a4d6731c345c9
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 15688d3c14d5007b7f827dd755dd9c39f89aed58
+
+COCOAPODS: 1.0.0
